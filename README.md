@@ -1,6 +1,6 @@
 # LollipopGo_example
 Golang语言社区  全球服游戏服务器框架,目前协议支持websocket、http及RPC，采用状态同步，愿景：打造竞技实时【比赛】对战游戏平台框架！ 针对LollipopGo架构的示例，包括代理服务器，登录服务器，db服务器，游戏主逻辑服务器等... ...
->微信订阅号：Golang语言社区
+>微信订阅号：Golang语言情怀
 
 
 论坛
@@ -52,4 +52,5 @@ Golang语言社区
 6. 游戏资源服务器
 7. sql数据库表结构
 8. 区域服务器的架构设计流程图
+9. cocos creator架构
 ```
