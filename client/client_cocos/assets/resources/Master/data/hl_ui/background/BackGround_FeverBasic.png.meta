@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "55907e0c-cab9-4ea6-a441-4c80af472012",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "BackGround_FeverBasic": {
+      "ver": "1.0.3",
+      "uuid": "ca0bec51-59b9-4c3f-af04-fb346be88f70",
+      "rawTextureUuid": "55907e0c-cab9-4ea6-a441-4c80af472012",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 640,
+      "height": 1136,
+      "rawWidth": 640,
+      "rawHeight": 1136,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

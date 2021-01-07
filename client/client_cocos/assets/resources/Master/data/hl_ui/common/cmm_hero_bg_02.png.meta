@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7b15d69c-2577-4a8c-8718-852cbe0bcfd2",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "cmm_hero_bg_02": {
+      "ver": "1.0.3",
+      "uuid": "4eeddb87-7e31-42b5-a6f9-0763bd20d8ac",
+      "rawTextureUuid": "7b15d69c-2577-4a8c-8718-852cbe0bcfd2",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 2.5,
+      "offsetY": -4,
+      "trimX": 9,
+      "trimY": 8,
+      "width": 115,
+      "height": 120,
+      "rawWidth": 128,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

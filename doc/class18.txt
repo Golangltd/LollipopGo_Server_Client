@@ -1,0 +1,27 @@
+
+
+
+class18 知识点
+
+
+1. http  ，go语言实现方式
+   参照：https://studygolang.com/articles/4846
+
+2. 登录服务器优化--- 路由注册模式
+
+3. 登录服务器知识点
+
+   <1>配置 (需要熟悉的框架：github.com/BurntSushi/toml)
+      RPCAddr:数据库的地址
+      HTTPAddr：登录服务器的端口
+      URL：登录服务器路由
+      HotReload：热更开关
+   
+4. http 服务器 如何快捷测试，浏览器 
+
+5. 依赖库的熟悉
+
+
+暂时获取代码，不需要关心：
+1. DB server
+

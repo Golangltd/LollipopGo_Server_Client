@@ -1,0 +1,33 @@
+[server]
+
+# 本节点的appHostID
+AppHostID = 3
+
+# websocket端口
+WSAddr = ":4004"
+
+# proxy服务器连接信息
+ProxyPath = "/BaBaLiuLiu"
+ProxyHost = "127.0.0.1"
+ProxyPort = ":8888"
+
+# login服务器连接信息
+LoginPath = "/BaBaLiuLiu/server/login"
+LoginHost = "192.168.1.5"
+LoginPort = ":8867"
+
+#数据库连接信息
+DBAddr = "192.168.1.5:7601"
+
+# 服务器路由
+URL = "BaBaLiuLiu"
+# 配置文件热加载开关，如果接入配置中心可以关闭
+HotReload = false
+#AES加密的key
+AesKey = "54c8d6621870b925cd471ce50eb62cea"
+#本服是第几区
+AreaListId = 1
+
+[log]
+Level = "debug"
+Path = "./server_logs"

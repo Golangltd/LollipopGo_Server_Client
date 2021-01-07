@@ -1,0 +1,16 @@
+[server]
+# websocket端口
+WSAddr=":8888"
+
+# 服务器路由
+URL="BaBaLiuLiu"
+
+# 服务器唯一ID
+ServerId = 1
+
+# 配置文件热加载开关，如果接入配置中心可以关闭
+HotReload=true
+
+[log]
+Level="debug"
+Path ="./server_logs"

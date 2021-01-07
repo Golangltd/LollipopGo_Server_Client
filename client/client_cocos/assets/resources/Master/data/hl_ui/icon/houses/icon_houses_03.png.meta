@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "db0c0e54-5f0b-413b-b8d5-1afa755c4f23",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon_houses_03": {
+      "ver": "1.0.3",
+      "uuid": "fee80d0b-08c0-4feb-9717-86d07d128042",
+      "rawTextureUuid": "db0c0e54-5f0b-413b-b8d5-1afa755c4f23",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 2.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 109,
+      "rawWidth": 88,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,17 @@
+
+
+class19 知识点
+
+
+1.  go语言的原生的RPC
+2.  掌握RPC的基础流程，实现demo
+3.  公用库的作用，维护更新
+4.  增加数据库，修改数据库 dynamite :=[]string{"ac_game","cf_game","game"}
+
+
+课后：
+1. 下载代码后，运行
+2. 建立mysql 
+3. 测试db连接mysql
+4. 虚拟机+系统下载(centos)，www.gameais.com
+

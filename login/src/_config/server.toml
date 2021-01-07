@@ -1,0 +1,18 @@
+[server]
+# DB 服务器链接信息,DB数据信息
+RPCAddr="127.0.0.1:8807"
+# Http接口
+HTTPAddr = ":8867"
+# 服务器路由
+URL="BaBaLiuLiu"
+# 配置文件热加载开关，如果接入配置中心可以关闭
+HotReload=true
+
+# Http接口
+DBAddr = "127.0.0.1:7601"
+#AES加密的key
+AesKey = "54c8d6621870b925cd471ce50eb62cea"
+
+[log]
+Level="debug"
+Path ="./login_logs"

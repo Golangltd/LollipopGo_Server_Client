@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7be905ba-d80a-4ab2-8a94-f099a42d764a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "富豪排行榜": {
+      "ver": "1.0.3",
+      "uuid": "79793f2d-e46a-4f74-9f2f-21d53e88813d",
+      "rawTextureUuid": "7be905ba-d80a-4ab2-8a94-f099a42d764a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 32,
+      "height": 169,
+      "rawWidth": 32,
+      "rawHeight": 169,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

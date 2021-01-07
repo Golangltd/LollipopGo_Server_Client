@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6538f5ab-f6ac-45d8-9647-d7bc16a45fe0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "help_daili_qita": {
+      "ver": "1.0.3",
+      "uuid": "fb929df4-906c-454b-830f-a7b6b0fc7e39",
+      "rawTextureUuid": "6538f5ab-f6ac-45d8-9647-d7bc16a45fe0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 258,
+      "height": 288,
+      "rawWidth": 258,
+      "rawHeight": 288,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

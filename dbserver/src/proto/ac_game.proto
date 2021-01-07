@@ -1,0 +1,13 @@
+package proto
+
+// 登录协议
+var req float64 = 3.0  // 请求数据，简单的类型；结构体类型
+var respSync *float64  // 返回数据，可以是简单类型，也可以是负载类型
+
+// 获取邮件的结构
+var req int = 0
+var respSync *MailSt  // 获取邮件列表 数据类型
+
+// 聊天  ---敏感词过滤
+
+// 背包 设计

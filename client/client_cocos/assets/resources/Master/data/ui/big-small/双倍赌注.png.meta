@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ad5f2386-e187-46ec-ac38-d367aed66aef",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "双倍赌注": {
+      "ver": "1.0.3",
+      "uuid": "d3d4d80b-f548-4532-810a-816acc8085e4",
+      "rawTextureUuid": "ad5f2386-e187-46ec-ac38-d367aed66aef",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 34,
+      "height": 23,
+      "rawWidth": 34,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

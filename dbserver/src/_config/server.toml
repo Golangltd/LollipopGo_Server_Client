@@ -1,0 +1,37 @@
+[server]
+# TCP端口
+WSAddr = "7601"
+
+# 服务器路由
+URL = "BaBaLiuLiu"
+
+# 服务器唯一ID  数据库配置ID
+ServerId = 2
+
+# 配置文件热加载开关，如果接入配置中心可以关闭
+HotReload = true
+
+#本服是第几区
+AreaListId = 1
+
+# 目前设计为3个数据库，账号数据库，配置数据库，游戏数据库
+[db]
+Type = "mysql"
+#Host = "root:game2020@tcp(192.168.2.198:3306)/game?charset=utf8mb4&parseTime=True&loc=Local"
+Host_IP = ":3306"
+
+Host_Name = ""
+Host_PW = ""
+Host_DB = "game"
+Debug = false
+
+[mongo]
+Host = "mongodb://user_dev:game2020@192.168.2.198:27017/?authSource=admin"
+
+[redis]
+Host = "192.168.2.198:6379"
+password = "game2020"
+
+[log]
+Level = "debug"
+Path = "./dbserver_logs"

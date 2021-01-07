@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3ad6ea2e-f25d-457c-a1d2-1bc6dd2b8ff5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "login_font_tongyi": {
+      "ver": "1.0.3",
+      "uuid": "2fe04d86-3856-4d52-91ac-bd0a1cb13191",
+      "rawTextureUuid": "3ad6ea2e-f25d-457c-a1d2-1bc6dd2b8ff5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 405,
+      "height": 39,
+      "rawWidth": 405,
+      "rawHeight": 39,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
