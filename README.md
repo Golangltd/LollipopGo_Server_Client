@@ -52,5 +52,5 @@ Golang语言社区
 6. 游戏资源服务器
 7. sql数据库表结构
 8. 区域服务器的架构设计流程图
-9. cocos creator架构
+9. cocos creator架构 creator为：1.9.3版本
 ```
